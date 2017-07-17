@@ -5,14 +5,17 @@
 <h1 style="font-family:Helvetica;">Hannah Mitchell</h1>
 </head>
 <body>
+<img src="http://piskel-imgstore-b.appspot.com/img/3d3aeab8-6b27-11e7-bbb2-4d4dc0811b72.gif" alt="me"style=width:100;height:100;/>
 <p style="font-family:Bookman;"> Hi, I'm Hannah, and I'm creating this portfolio for Girls who Code.</p>
 <img src="http://cdn2.sportngin.com/attachments/news_article/6827/8505/girlswhocodegwc-logo.png" alt="GWC" style="width:424px;height:171px;"/>
 <p> This will (hopefully) contain some of my projects from this summer, as well as information about me!</p>
+<hr/>
 <strong style="font-family:Helvetica;">
 Update: 07/17/17
 </strong>
 <p style="font-family:Bookman;">
 We started last week, and so far we have made a couple of scratch projects and this website!
 </p>
+
 </body>
 </html>
