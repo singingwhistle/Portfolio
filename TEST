@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+<h1 style="font-family:Garamond;">Hannah Mitchell</h1>
+</head>
+<body>
+<p style="font-family:Georgia;"> Hi, I'm Hannah, and I'm creating this portfolio for Girls who Code.</p>
+<img src="http://cdn2.sportngin.com/attachments/news_article/6827/8505/girlswhocodegwc-logo.png" alt="GWC" style="width:424px;height:171px;"/>
+
+</body>
+</html>
